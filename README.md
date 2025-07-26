@@ -54,6 +54,4 @@ Distributed under the MIT License. See `LICENSE.txt` for details.
 
 ## Contact
 
-Your Name – [@YourTwitterHandle](https://twitter.com/YourTwitterHandle) – your.email@example.com
-
-**Project Link:** [https://github.com/YourUsername/ML_Scratch](https://github.com/YourUsername/ML_Scratch)
+**Project Link:** [https://github.com/NighLearner/ML_Scratch](https://github.com/NighLearner/ML_Scratch)
